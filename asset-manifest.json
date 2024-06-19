@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ankita239.github.io/My-Portfolio/static/css/main.07ccce2f.css",
-    "main.js": "/ankita239.github.io/My-Portfolio/static/js/main.e7342c86.js",
-    "static/media/port5.png": "/ankita239.github.io/My-Portfolio/static/media/port5.22c2c204f511444b3bba.png",
-    "static/media/port2.png": "/ankita239.github.io/My-Portfolio/static/media/port2.d383a9ec139a170cadad.png",
-    "static/media/port4.png": "/ankita239.github.io/My-Portfolio/static/media/port4.6a74ff5f332290e8b967.png",
-    "static/media/HeroImage.jpeg": "/ankita239.github.io/My-Portfolio/static/media/HeroImage.20fab03d1c76026e8126.jpeg",
-    "static/media/port3.png": "/ankita239.github.io/My-Portfolio/static/media/port3.edbd9f9d09bcae665b85.png",
-    "static/media/port1.png": "/ankita239.github.io/My-Portfolio/static/media/port1.493ccc6a86a53219fc04.png",
-    "static/media/react.png": "/ankita239.github.io/My-Portfolio/static/media/react.a735267992861f02c8f2.png",
-    "index.html": "/ankita239.github.io/My-Portfolio/index.html",
-    "main.07ccce2f.css.map": "/ankita239.github.io/My-Portfolio/static/css/main.07ccce2f.css.map",
-    "main.e7342c86.js.map": "/ankita239.github.io/My-Portfolio/static/js/main.e7342c86.js.map"
+    "main.css": "/ankita239/My-Portfolio/static/css/main.07ccce2f.css",
+    "main.js": "/ankita239/My-Portfolio/static/js/main.c9ff0933.js",
+    "static/media/port5.png": "/ankita239/My-Portfolio/static/media/port5.22c2c204f511444b3bba.png",
+    "static/media/port2.png": "/ankita239/My-Portfolio/static/media/port2.d383a9ec139a170cadad.png",
+    "static/media/port4.png": "/ankita239/My-Portfolio/static/media/port4.6a74ff5f332290e8b967.png",
+    "static/media/HeroImage.jpeg": "/ankita239/My-Portfolio/static/media/HeroImage.20fab03d1c76026e8126.jpeg",
+    "static/media/port3.png": "/ankita239/My-Portfolio/static/media/port3.edbd9f9d09bcae665b85.png",
+    "static/media/port1.png": "/ankita239/My-Portfolio/static/media/port1.493ccc6a86a53219fc04.png",
+    "static/media/react.png": "/ankita239/My-Portfolio/static/media/react.a735267992861f02c8f2.png",
+    "index.html": "/ankita239/My-Portfolio/index.html",
+    "main.07ccce2f.css.map": "/ankita239/My-Portfolio/static/css/main.07ccce2f.css.map",
+    "main.c9ff0933.js.map": "/ankita239/My-Portfolio/static/js/main.c9ff0933.js.map"
   },
   "entrypoints": [
     "static/css/main.07ccce2f.css",
-    "static/js/main.e7342c86.js"
+    "static/js/main.c9ff0933.js"
   ]
 }
