@@ -41,7 +41,7 @@ const Portfolio = () => {
   return (
     <div id="portfolio" className='bg-[03002D] bg-gradient-to-b from-[#04002c] via-[#030031] to-[#040043] text-slate-300  px-16 md:px-20 lg:px-30 py-4 pt-20 min-h-screen h-fit'>
       <h1 className='text-5xl mb-3  underline-offset-8 decoration-slate-600 decoration-4 underline'>Portfolio</h1>
-      <h3 className='py-4 text-xl'>Check out some of my works, their source codes and explore them live.</h3>
+      <h3 className='py-4 text-lg md:text-xl'>Check out some of my works, their source codes and explore them live.</h3>
       <div className='grid gap-6 grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
          {myports.map(({pic,id,code,live,style})=>{
           return <div key={id} className="border rounded-xl border-slate-300  shadow-sm shadow-slate-200 hover:cursor-pointer hover:shadow-lg hover:shadow-slate-200 hover:scale-105 duration-200 ">
