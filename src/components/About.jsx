@@ -6,7 +6,7 @@ const About = () => {
       <h1 className='text-5xl mb-8  underline-offset-8 decoration-slate-600 decoration-4 underline'>About Me</h1>
       <p className='mb-2    text-base md:text-lg'>
 
-      I am Ankita Acharya, a final-year Computer Science and Engineering student at KIIT University, Bhubaneswar. As a dedicated Full Stack Web Developer, I specialize in frontend technologies like HTML, CSS, and React, and backend technologies including MongoDB, Node.js, and Express.js. My programming skills encompass C, C++, JavaScript, and Python, alongside database management with SQL and tools like Git and AWS.
+       As a dedicated Full Stack Web Developer, I specialize in frontend technologies like HTML, CSS, and React, and backend technologies including MongoDB, Node.js, and Express.js. My programming skills encompass C, C++, JavaScript, and Python, alongside database management with SQL and tools like Git and AWS.
 
 </p>
 

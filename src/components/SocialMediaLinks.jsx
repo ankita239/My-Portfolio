@@ -52,7 +52,7 @@ const SocialMediaLinks = () => {
         Resume <IoDocumentAttach size={30} />
         </> 
       ),
-      style : "rounded-br-md flex-end",
+      style:"rounded-br-md flex-end",
       download:true
     }
   ]
